@@ -14,4 +14,3 @@ main :: Effect Unit
 main = do
   log $ show $ singleton "Hello"
   log $ show $ singleton 1
-  
